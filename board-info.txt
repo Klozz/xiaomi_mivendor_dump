@@ -1,0 +1,3 @@
+require version-baseband=3.0.c1-00301.2-KAILUA_GEN_PACK-1.35883.58.42275.4
+require version-trustzone=TZ.XF.5.24-36233-2
+require version-vendor=1697902629
